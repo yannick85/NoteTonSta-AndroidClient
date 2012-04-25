@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/evaluate_button"
+          android:title="Evaluate" />
+    <item android:id="@+id/refresh_button"
+          android:title="Refresh"/>
+    <item android:id="@+id/about_button"
+          android:title="About" />
+</menu>
